@@ -2,6 +2,10 @@
 
 This project aims to deblur images generated from kernel filters using deep learning techniques. The goal is to improve the visual quality of blurred images and enhance their clarity.
 
+In this project, we aim to deblur images using kernel filters with varying sizes and sigmas. We apply kernels of (3x3, sigma=0.6), (7x7, sigma=1), and (11x11, sigma=0.16) to generate the blur and sharp test data used for model training.
+
+Link for [Input data]([#input-and-test-data](https://drive.google.com/file/d/1SgLnl8FwMgSdY9s_LXjPcmzeY5S0aklK/view?usp=sharing)) on which we apply filter to prepare data for input.
+Link for [folder](https://drive.google.com/file/d/1Ch1K4yEVUvcX1kZ1JK3GpXXRPyeCe6rf/view?usp=sharing) that contain blur and corresponding sharp image for testing purpose.
 ## Overview
 
 Blurring in images can occur due to various reasons such as motion blur, out-of-focus blur, or intentional application of blurring filters. Image deblurring involves the process of recovering the original sharp image from its blurred version.
