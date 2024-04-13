@@ -17,7 +17,7 @@ Peak Signal-to-Noise Ratio (PSNR) is a commonly used metric to evaluate the qual
 To get started with the project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/your_username/image-deblurring.git`
-2. Download the raw images from [Input data](https://drive.google.com/file/d/1SgLnl8FwMgSdY9s_LXjPcmzeY5S0aklK/view?usp=sharing) and [Test data]([https://drive.google.com/file/d/1Ch1K4yEVUvcX1kZ1JK3GpXXRPyeCe6rf/view?usp=sharing)
+2. Download the raw images from [Input data](https://drive.google.com/file/d/1SgLnl8FwMgSdY9s_LXjPcmzeY5S0aklK/view?usp=sharing) and [Test data](https://drive.google.com/file/d/1Ch1K4yEVUvcX1kZ1JK3GpXXRPyeCe6rf/view?usp=sharing)
 3. Prepare your dataset of blurred and sharp images.
 4. Train the deep learning model using the provided scripts.
 5. Evaluate the model performance using PSNR and other metrics.
@@ -26,7 +26,11 @@ To get started with the project, follow these steps:
 
 The deblurring model demonstrates impressive performance in enhancing the visual quality of blurred images. Here are some examples of the deblurred images produced by the model:
 
-[Insert deblurred image examples here]
+<p align="center">
+  <img src="blurred_img.png" width="250" />
+  <img src="generated_sample.png" width="250" />
+  <img src="sharp_sample.png" width="250" />
+</p>
 
 ## Contributing
 
