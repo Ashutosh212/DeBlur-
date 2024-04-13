@@ -38,12 +38,13 @@ To get started with the project, follow these steps:
 The deblurring model demonstrates impressive performance in enhancing the visual quality of blurred images. Here are some examples of the deblurred images produced by the model:
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="blurred_img.png" width="250" title="Blur"/>
+  1. <img src="blurred_img.png" width="250" title="Blur"/>
 
-  <img src="generated_sample.png" width="250" title="Generated"/>
+  2. <img src="generated_sample.png" width="250" title="Generated"/>
 
-  <img src="sharp_sample.png" width="250" title="Sharp"/>
- Blur             Generated          Sharp
+  3. <img src="sharp_sample.png" width="250" title="Sharp"/>
+  
+ 1. Blur             2. Generated          3. Sharp
 </p>
 
 ## Contributing
