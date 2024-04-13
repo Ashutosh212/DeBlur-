@@ -39,8 +39,11 @@ The deblurring model demonstrates impressive performance in enhancing the visual
 
 <p align="center">
   <img src="blurred_img.png" width="250" />
+  <figcaption>Blur</figcaption>
   <img src="generated_sample.png" width="250" />
+  <figcaption>Generated</figcaption>
   <img src="sharp_sample.png" width="250" />
+  <figcaption>Sharp</figcaption>
 </p>
 
 ## Contributing
