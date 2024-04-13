@@ -57,6 +57,13 @@ The deblurring model demonstrates impressive performance in enhancing the visual
 
 </p>
 
+## References
+
+1. [Deep Multi-scale Convolutional Neural Network for Dynamic Scene Deblurring](https://arxiv.org/pdf/1612.02177v2.pdf)
+
+2. [DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks](https://arxiv.org/pdf/1711.07064.pdf)
+
+   
 ## Contributing
 
 Contributions to the project are welcome! If you have any ideas, bug fixes, or feature enhancements, feel free to open an issue or submit a pull request.
