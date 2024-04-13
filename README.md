@@ -39,6 +39,8 @@ The deblurring model demonstrates impressive performance in enhancing the visual
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="blurred_img.png" width="250" title="Blur"/>
+  <br />
+  <em>Image 1: Caption here</em>
 <!--   <figcaption>Blur</figcaption> -->
   <img src="generated_sample.png" width="250" title="Generated"/>
 <!--   <figcaption>Generated</figcaption> -->
